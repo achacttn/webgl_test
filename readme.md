@@ -1,3 +1,3 @@
 Test demonstration
 
-[link](http://achacttn.github.io/webgl_test)
+Live demo unavailable, please clone and open index.html
